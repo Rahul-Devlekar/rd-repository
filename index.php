@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saheli Digital Studio</title>
+    <title>RD Digital Studio</title>
 
     <!-- font awesome cdn link  -->
     <script src="https://kit.fontawesome.com/39f2b34126.js" crossorigin="anonymous"></script>
@@ -83,7 +83,7 @@
 
 <section class="services" id="services">
 
-    <h1 class="heading"> our <span>services</span> </h1>
+    <h1 class="heading"> Services <span>Provided by us</span> </h1>
 
     <div class="box-container">
 
